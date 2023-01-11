@@ -1,0 +1,165 @@
+/*
+	playerid int NOT NULL,
+	punkty int NOT NULL,
+	asy int NOT NULL,
+	kartki int NOT NULL,
+	mecze int NOT NULL,
+	aktywnosc nchar(10) NOT NULL
+	*/
+
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (1, 34, 3, 2, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (2, 32, 4, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (3, 24, 1, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (4, 14, 1, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (5, 15, 1, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (6, 12, 5, 0, 8, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (7, 12, 1, 2, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (8, 13, 1, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (9, 17, 2, 2, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (10, 19, 3, 0, 8, 'srednia');
+
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (11, 19, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (12, 35, 4, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (13, 36, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (14, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (15, 34, 5, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (16, 21, 3, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (17, 26, 0, 0, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (18, 27, 6, 1, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (19, 16, 3, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (20, 19, 7, 0, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (21, 6, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (22, 35, 4, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (23, 6, 0, 0, 5, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (24, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (25, 34, 5, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (26, 12, 3, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (27, 26, 0, 0, 5, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (28, 27, 6, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (29, 51, 3, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (30, 19, 7, 1, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (31, 19, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (32, 41, 4, 0, 5, 'niska');;
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (33, 36, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (34, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (35, 25, 5, 1, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (36, 21, 3, 0, 5, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (37, 26, 0, 0, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (38, 61, 6, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (39, 16, 3, 0, 5, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (40, 19, 7, 0, 9, 'srednia');
+
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (41, 19, 0, 0, 6, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (42, 35, 3, 0, 6, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (43, 8, 3, 1, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (44, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (45, 34, 5, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (46, 21, 3, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (47, 26, 0, 0, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (48, 8, 6, 1, 4, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (49, 16, 3, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (50, 19, 7, 0, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (51, 6, 3, 2, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (52, 35, 4, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (53, 6, 0, 0, 5, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (54, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (55, 3, 5, 0, 1, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (56, 12, 3, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (57, 26, 0, 0, 5, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (58, 27, 6, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (59, 51, 3, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (60, 8, 7, 1, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (61, 19, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (62, 41, 4, 1, 5, 'niska');;
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (63, 36, 3, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (64, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (65, 25, 5, 1, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (66, 21, 3, 0, 5, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (67, 26, 0, 0, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (68, 8, 3, 0, 3, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (69, 16, 3, 0, 5, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (70, 2, 7, 2, 9, 'srednia');
+
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (71, 19, 0, 0, 6, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (72, 35, 3, 0, 6, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (73, 8, 22,1, 3, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (74, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (75, 34, 5, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (76, 1, 3, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (77, 26, 2, 5, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (78, 2, 6, 1, 4, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (79, 16, 3, 0, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (80, 16, 7, 1, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (81, 6, 3, 2, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (82, 35, 4, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (83, 6, 0, 0, 5, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (84, 6, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (85, 3, 5, 5, 1, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (86, 2, 3, 5, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (87, 26, 0, 0, 5, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (88, 47, 6, 1, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (89, 5, 3, 0, 4, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (90, 8, 7, 1, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (91, 19, 0, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (92, 41, 4, 1, 5, 'niska');;
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (93, 4, 3, 0, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (94, 38, 3, 0, 7, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (95, 25, 5, 1, 8, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (96, 21, 3, 0, 5, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (97, 36, 0, 0, 3, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (98, 8, 3, 0, 3, 'niska');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (99, 16, 3, 0, 5, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (100, 2, 7, 2, 9, 'srednia'); 
+
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (101, 0, 0, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (102, 0, 0, 4, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (103, 6, 0, 2, 5, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (104, 2, 0, 3, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (105, 2, 0, 2, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (106, 6, 1, 2, 5, 'niska');; 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (107, 0, 1, 3, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (108, 2, 1, 2, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (109, 2, 3, 4, 5, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (110, 6, 2, 2, 7, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (111, 0, 2, 3, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (112, 2, 1, 2, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (113, 6, 1, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (114, 5, 3, 3, 5, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (115, 0, 1, 4, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (116, 2, 1, 2, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (117, 2, 1, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (118, 0, 4, 1, 5, 'niska'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (119, 9, 2, 4, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (120, 5, 2, 2, 9, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (121, 6, 2, 2, 5, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (122, 0, 2, 1, 7, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (123, 2, 3, 4, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (124, 3, 7, 2, 5, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (125, 3, 1, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (126, 4, 3, 1, 7, 'wysoka');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (127, 2, 7, 2, 5, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (128, 7, 4, 4, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (129, 7, 4, 2, 5, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (130, 8, 7, 1, 7, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (131, 1, 5, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (132, 2, 5, 4, 5, 'niska');; 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (133, 3, 6, 2, 7, 'niska'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (134, 3, 2, 1, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (135, 9, 3, 2, 7, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (136, 5, 3, 4, 7, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (137, 7, 4, 1, 6, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (138, 8, 7, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (139, 2, 5, 1, 6, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (140, 8, 2, 1, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (141, 5, 1, 2, 6, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (142, 2, 7, 2, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (143, 3, 3, 2, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (144, 4, 6, 2, 6, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (145, 6, 9, 0, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (146, 5, 7, 0, 9, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (147, 4, 8, 0, 6, 'srednia'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (148, 3, 7, 0, 9, 'wysoka'); 
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (149, 2, 6, 0, 9, 'srednia');
+	INSERT INTO dbo.Osiagniecia(playerid, punkty, asy, kartki, mecze, aktywnosc) values (150, 1, 7, 0, 5, 'niska'); 
+
+	select * from Osiagniecia
